@@ -1,0 +1,61 @@
+@media (max-width:767.97px) {
+    h1 {
+        font-size: 1.875rem;
+        line-height: 2.5rem;
+    }
+
+    section {
+        padding: 1.875rem 0;
+    }
+
+    /* 2 Navbar */
+    .header-scrolled {
+        height: auto;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+        line-height: 2.1875rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    p {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+    }
+
+    .navbar-expand-lg {
+        text-align: center;
+    }
+
+    .about-wrapper {
+        padding-top: 22.375rem;
+    }
+
+    .service-menu-area ul li a {
+        margin-top: 18px;
+    }
+
+    .service-menu-area ul li:nth-child(2) {
+        margin-left: 0rem;
+    }
+
+    .service-menu-area ul li:nth-child(3) {
+        margin-left: 0rem;
+    }
+
+    .service-menu-area ul li:nth-child(4) {
+        margin-left: 0rem;
+    }
+
+    .blog-wrapper .blog-content {
+        margin: 0px;
+    }
+
+    .services-wrapper .service-item-wrap .tab-content img {
+        width: 100%;
+    }
+}
